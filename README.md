@@ -1,7 +1,17 @@
 
 
 
-## 👋 Hi, I’m @KATIETOLER
+
+ 
+ <h1 align="center">
+  @KATIETOLER
+ 
+ </h1>
+
+
+<p align="center">A passionate frontend developer from Denver</p>
+
+
 - 👀 I’m interested in ...Javascript, CSS, and HTML!
 - 🌱 I’m currently learning ...React & Express!
 - 💞️ I’m looking to collaborate on ...anything!
