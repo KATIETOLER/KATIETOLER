@@ -13,7 +13,7 @@
 
 
 - 👀 I’m interested in ...Javascript, CSS, and HTML!
-- 🌱 I’m currently learning ...React & Express!
+- 🌱 I’m currently learning ...React Native!
 - 💞️ I’m looking to collaborate on ...anything!
 - 📫 How to reach me ... @KATIETOLER on here, @KATIETOLER on slack! :)
 - 🗣 Contact me on my [LinkedIn](https://www.linkedin.com/in/katie--toler/) if you want to know more!
