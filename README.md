@@ -5,7 +5,9 @@
  
 
 Katie Toler
+<p>
 Supportive, empathetic, product focused Software Engineer with a passion for learning new technologies
+</p>
 <p>
 Connect with me on my [LinkedIn](https://www.linkedin.com/in/katie--toler/) if you want to know more!
 </p>
